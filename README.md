@@ -1,2 +1,2 @@
 # java-telegram-bot-example
-Simple Telegram bot. Use Java Telegram API
+#### Simple bot for Telegram messenger. Use Java Telegram API
